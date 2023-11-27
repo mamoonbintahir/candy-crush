@@ -1,0 +1,9 @@
+﻿  game.cpp
+C:\Users\Mamoon\source\repos\task 1\candy crush\candy crush\header.h(34,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Mamoon\source\repos\task 1\candy crush\candy crush\header.h(40,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Mamoon\source\repos\task 1\candy crush\candy crush\header.h(48,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Mamoon\source\repos\task 1\candy crush\candy crush\header.h(55,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Mamoon\source\repos\task 1\candy crush\candy crush\header.h(62,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+C:\Users\Mamoon\source\repos\task 1\candy crush\candy crush\game.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mamoon\source\repos\task 1\candy crush\candy crush\game.cpp(572,24): warning C4018: '<': signed/unsigned mismatch
+  candy crush.vcxproj -> C:\Users\Mamoon\source\repos\task 1\candy crush\x64\Debug\candy crush.exe
